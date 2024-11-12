@@ -3,7 +3,7 @@ import { Navigation } from "~/components/Navigation";
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "Meu de Navegacion" },
+    { title: "Menu de Navegacion" },
     { name: "description", content: "Menu de Navegacion: Ejemplo" },
   ];
 };
